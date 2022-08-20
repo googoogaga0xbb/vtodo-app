@@ -1,3 +1,5 @@
+A simple TODO App using NextJS with Typescript by @viistorrr
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
